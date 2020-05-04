@@ -16,11 +16,11 @@ Mas hoje, o dólar e a maioria das outras moedas
 
 5
 00:01:31,560 --> 00:01:34,840
-são garantidas não por ouro, mas por crédito -
+são garantidas não por ouro, mas por crédito --
 
 6
 00:01:34,840 --> 00:01:38,040
-papel moeda garantido por papel moeda
+papel moeda garantido por papel moeda.
 
 7
 00:01:42,500 --> 00:01:45,300
@@ -32,19 +32,19 @@ A experiência da Alemanha no início da década de 1920
 
 9
 00:01:46,880 --> 00:01:50,000
-contada por aqueles que clamavam o retorno para o padrão ouro
+contada por aqueles que clamam pelo retorno do padrão ouro
 
 10
 00:01:50,000 --> 00:01:53,700
-como a melhor maneira para para a inflação e estabilizar a economia
+como a melhor maneira para parar a inflação e estabilizar a economia.
 
 11
 00:01:53,700 --> 00:01:57,320
-Enquanto os preços aumentam, os governos imprimiram mais e mais dinheiro
+Enquanto os preços aumentavam, os governos imprimiram mais e mais dinheiro
 
 12
 00:01:57,320 --> 00:01:59,720
-e os preços aumentaram de novo
+e os preços aumentaram de novo.
 
 13
 00:01:59,720 --> 00:02:02,340
@@ -52,7 +52,7 @@ Eventualmente, o marco alemão literalmente não valia
 
 14
 00:02:02,340 --> 00:02:04,420
-o papel que era usado para imprimir
+o papel que era usado para imprimir.
 
 15
 00:02:04,420 --> 00:02:07,340
@@ -64,7 +64,8 @@ e um selo postal custava milhões.
 
 17
 00:02:14,720 --> 00:02:19,080
-O que é esta situação para escassez? Por que raios precisamos de criptomoedas?
+O que é esta situação para escassez?
+Por que raios precisamos de criptomoedas?
 
 18
 00:02:20,140 --> 00:02:23,400
@@ -72,11 +73,11 @@ Vamos olhar para o dinheiro que nós usamos.
 
 19
 00:02:23,500 --> 00:02:25,160
-Ali está o dólar americano
+Ali está o dólar americano,
 
 20
 00:02:25,940 --> 00:02:27,240
-o yuan chinês
+o yuan chinês,
 
 21
 00:02:27,360 --> 00:02:29,240
@@ -84,7 +85,7 @@ o euro e o franco suíço.
 
 22
 00:02:29,480 --> 00:02:31,540
-e o que eu estou mostrando aqui é
+E o que eu estou mostrando aqui é
 
 23
 00:02:31,780 --> 00:02:34,400
@@ -92,7 +93,7 @@ estatística oficial do governo para a
 
 24
 00:02:34,560 --> 00:02:37,340
-quantidade de dinheiro em circulação
+quantidade de dinheiro em circulação.
 
 25
 00:02:37,440 --> 00:02:39,960
@@ -120,11 +121,11 @@ e cada um desses gráficos está mostrando
 
 31
 00:02:51,640 --> 00:02:55,660
-desde outubro de 2008, que é quando o whitepaper do Bitcoin foi apresentado.
+desde outubro de 2008, que é quando o white paper do Bitcoin foi apresentado.
 
 32
 00:02:55,820 --> 00:02:59,280
-Isto é a escala à esquerda de cada um desses quatro gráficos
+Esta é a escala à esquerda de cada um desses quatro gráficos.
 
 33
 00:02:59,660 --> 00:03:04,980
@@ -144,7 +145,7 @@ Em apenas 11 anos
 
 37
 00:03:13,300 --> 00:03:18,160
-a oferta de dinheiro do dólar americano subiu 2,6 vezes
+a oferta de dinheiro do dólar americano subiu 2,6 vezes.
 
 38
 00:03:19,120 --> 00:03:20,260
@@ -152,7 +153,7 @@ Em outras palavras,
 
 39
 00:03:20,480 --> 00:03:24,620
-as impressoras de dinheiro tem estado ativas nesta proporção
+as impressoras de dinheiro têm estado ativas neste ritmo.
 
 40
 00:03:24,840 --> 00:03:26,920
@@ -160,7 +161,7 @@ Nós não percebemos porque
 
 41
 00:03:26,920 --> 00:03:30,080
-todos os anos os preços que nós vemos sobem um pouco apenas
+todos os anos os preços que nós vemos sobem apenas um pouco
 
 42
 00:03:30,140 --> 00:03:33,540
@@ -172,11 +173,11 @@ O sapo não compreende que
 
 44
 00:03:35,740 --> 00:03:37,820
-está banhado em água fervendo até que é tarde demais
+está banhado em água fervendo até que seja tarde demais
 
 45
 00:03:37,820 --> 00:03:39,260
-e ele está cozido.
+e ele já está cozido.
 
 46
 00:03:39,360 --> 00:03:40,880
@@ -196,7 +197,7 @@ todas as moedas fiduciárias (Fiat) estão
 
 50
 00:03:49,660 --> 00:03:53,180
-ligando as impressoras em uma taxa preocupante
+ligando as impressoras em um ritmo preocupante.
 
 51
 00:03:53,260 --> 00:03:54,840
@@ -232,23 +233,23 @@ você vai para uma escala de 50 anos
 
 59
 00:04:15,140 --> 00:04:18,440
-você vê basicamente uma curva de crescimento exponencial
+você vê basicamente uma curva de crescimento exponencial.
 
 60
 00:04:19,800 --> 00:04:23,040
-Isto é um problema que todos poupadores enfrentam -
+Isto é um problema que todos poupadores enfrentam --
 
 61
 00:04:23,060 --> 00:04:25,220
-todo mundo que possui ativos para guardar dinheiro
+todo mundo que possui ativos para guardar
 
 62
 00:04:25,300 --> 00:04:28,760
-é contra essa corrente que está contra eles,
+nada contra essa corrente que está contra eles,
 
 63
 00:04:28,820 --> 00:04:30,940
-em que eles estão tendo diluição
+em que eles estão sendo diluídos
 
 64
 00:04:31,020 --> 00:04:34,180
@@ -268,15 +269,15 @@ e a ideia principal para isso
 
 68
 00:04:43,880 --> 00:04:45,640
-Eu não vou me aprofundar nos
+eu não vou me aprofundar nos
 
 69
 00:04:45,640 --> 00:04:47,660
-detalhes técnicos, no entanto.
+detalhes técnicos, no entanto
 
 70
 00:04:47,720 --> 00:04:51,420
-Estou assumindo que todos aqui tem um QI de pelo menos 140.
+estou assumindo que todos aqui tem um QI de pelo menos 140.
 
 71
 00:04:51,980 --> 00:04:53,120
@@ -312,7 +313,7 @@ ideia digna de um prêmio Nobel em economia,
 
 79
 00:05:12,420 --> 00:05:13,800
-Em que
+em que
 
 80
 00:05:13,800 --> 00:05:17,300
@@ -380,7 +381,7 @@ Em outras palavras, se uma sociedade é realmente produtiva e produz muita coisa
 
 96
 00:05:59,840 --> 00:06:05,060
-então a sociedade é justificada em inflar a oferta porque eles tem sido produtivos.
+então a sociedade é justificada em inflar a oferta porque eles têm sido produtivos.
 
 97
 00:06:05,640 --> 00:06:07,380
@@ -396,7 +397,7 @@ Eles contraem dívidas.
 
 100
 00:06:11,240 --> 00:06:14,100
-Eles promete serviços para as pessoas
+Eles prometem serviços para as pessoas
 
 101
 00:06:14,140 --> 00:06:16,600
@@ -404,7 +405,7 @@ que são muito caros e então eles não podem pagar por eles.
 
 102
 00:06:16,620 --> 00:06:17,920
-Eles entra em dívidas.
+Eles entram em dívidas.
 
 103
 00:06:18,500 --> 00:06:19,720
@@ -440,11 +441,11 @@ para aquele dinheiro?
 
 111
 00:06:42,480 --> 00:06:44,460
-É isto que ele oferece
+É isto que ele oferece,
 
 112
 00:06:44,540 --> 00:06:48,040
-uma forma para as pessoas optarem sair
+uma forma para as pessoas optarem a sair
 
 113
 00:06:48,040 --> 00:06:50,960
@@ -456,11 +457,11 @@ Ele também provê um
 
 115
 00:06:52,940 --> 00:06:55,020
-incentivo na forma de ameaça para
+incentivo na forma de "ameaça" para que
 
 116
 00:06:55,080 --> 00:06:59,380
-os bancos centrais para fazer um trabalho um pouco melhor.
+os bancos centrais façam um trabalho um pouco melhor.
 
 117
 00:07:00,620 --> 00:07:01,940
@@ -472,7 +473,7 @@ devamos ter
 
 119
 00:07:03,700 --> 00:07:05,580
-menos crises financeiras no futuro -
+menos crises financeiras no futuro --
 
 120
 00:07:05,580 --> 00:07:07,180
@@ -548,7 +549,7 @@ Para entender quanto grande isto é,
 
 138
 00:07:56,500 --> 00:07:59,940
-Imagine o diâmetro da Via Láctea.
+imagine o diâmetro da Via Láctea.
 
 139
 00:08:00,020 --> 00:08:01,940
@@ -580,7 +581,7 @@ Você tem que pegar um desses elétrons
 
 146
 00:08:18,720 --> 00:08:22,240
-e explodir para o tamanho da via láctea
+e explodir para o tamanho da Via Láctea
 
 147
 00:08:22,320 --> 00:08:26,440
@@ -616,7 +617,7 @@ e por que escolher uma conta de Bitcoin não requer
 
 155
 00:08:46,060 --> 00:08:49,540
-o preenchimento de algum formulário e pedindo permissão para uma conta.
+o preenchimento de algum formulário e pedir permissão para uma conta.
 
 156
 00:08:49,540 --> 00:08:51,540
@@ -632,7 +633,7 @@ que é a sua chave privada e você precisa
 
 159
 00:08:55,760 --> 00:08:56,740
-que defender ela
+defendê-la
 
 160
 00:08:56,740 --> 00:08:58,460
@@ -640,7 +641,7 @@ porque o conhecimento dessa chave privada
 
 161
 00:08:58,460 --> 00:09:02,760
-é o que precisa para gastar o Bitcoin de uma pessoa.
+é o que se precisa para gastar o Bitcoin de uma pessoa.
 
 162
 00:09:03,020 --> 00:09:04,880
@@ -668,7 +669,7 @@ que são na verdade contadores fofoqueiros
 
 168
 00:09:20,460 --> 00:09:26,440
-e eles são recompensados por comportamento consistente nas regras de consenso.
+e eles são recompensados por comportarem-se consistentemente nas regras de consenso.
 
 169
 00:09:26,740 --> 00:09:30,140
@@ -684,7 +685,7 @@ que é, o que o blockchain guarda.
 
 172
 00:09:33,760 --> 00:09:36,660
-Oblockchain é uma série de blocos.
+O blockchain é uma série de blocos.
 
 173
 00:09:36,660 --> 00:09:39,880
@@ -692,7 +693,7 @@ Cada bloco contém transações de
 
 174
 00:09:39,880 --> 00:09:42,140
-uma pessoa envia dinheiro para outra pessoa.
+uma pessoa enviando dinheiro para outra pessoa.
 
 175
 00:09:42,140 --> 00:09:44,560
@@ -700,7 +701,7 @@ Quem envia o que para quem e quanto
 
 176
 00:09:44,640 --> 00:09:48,200
-e cada bloco ´e apenas um registro disso.
+e cada bloco é apenas um registro disso.
 
 177
 00:09:48,260 --> 00:09:51,080
@@ -708,11 +709,11 @@ Como nós sabemos que ele não vai ser corrompido ao longo do tempo?
 
 178
 00:09:51,100 --> 00:09:53,620
-Porque, como todos nós sabemos, existe o decaimento da mídia de armazenamento
+Porque, como todos nós sabemos, existe o decaimento da mídia de armazenamento.
 
 179
 00:09:53,620 --> 00:09:55,780
-Pode existir a corrupção
+Pode existir a corrupção,
 
 180
 00:09:55,780 --> 00:09:58,580
@@ -852,7 +853,7 @@ então ele vai ser um número aleatório em que
 
 214
 00:11:44,300 --> 00:11:49,340
-sua página pode ou não ser um múltiplo de  milhões de átomos.
+sua página pode ou não ser um múltiplo de milhões de átomos.
 
 215
 00:11:50,440 --> 00:11:52,500
@@ -876,11 +877,11 @@ e porque é agora uma representação digital,
 
 220
 00:12:02,500 --> 00:12:04,540
-você pode copiar aquilo exatamente.
+você pode copiar aquilo precisamente.
 
 221
 00:12:04,660 --> 00:12:07,300
-Agora você tem uma cadeia de blocos,
+Agora você tem uma sequência de blocos,
 
 222
 00:12:07,320 --> 00:12:11,200
@@ -892,15 +893,15 @@ e o blockchain liga-os todos juntos.
 
 224
 00:12:17,740 --> 00:12:19,680
-Escassez no Bitcoin e Monero -
+Escassez no Bitcoin e Monero --
 
 225
 00:12:19,760 --> 00:12:21,680
-ambos tem uma base de código original.
+ambos têm uma base de código original.
 
 226
 00:12:22,140 --> 00:12:24,640
-Existem muitos, muitos projetos em criptomoedas em que
+Existem muitos, muitos projetos em criptomoedas em que o
 
 227
 00:12:24,640 --> 00:12:27,540
@@ -912,7 +913,7 @@ Bitcoin foi simplesmente copiado e modificado um pouquinho,
 
 229
 00:12:28,800 --> 00:12:31,060
-Ele foi escrito do nada.
+Ele foi escrito do zero.
 
 230
 00:12:31,480 --> 00:12:33,380
@@ -928,7 +929,7 @@ No Bitcoin a curva elíptica secp256k1 é usada
 
 233
 00:12:39,600 --> 00:12:42,860
-enquanto no Monero é usada ed25519.
+enquanto no Monero é usada a ed25519.
 
 234
 00:12:43,160 --> 00:12:48,140
@@ -936,11 +937,11 @@ Tanto Bitcoin como Monero, como eu mencionei antes, precisam de uma chave privad
 
 235
 00:12:48,480 --> 00:12:52,720
-Gastar uma criptiomoeda requer que você saiba um número
+Gastar uma criptomoeda requer que você saiba um número
 
 236
 00:12:52,720 --> 00:12:54,160
-e que é a chave primária.
+e que é a chave privada.
 
 237
 00:12:54,160 --> 00:12:56,620
@@ -956,11 +957,11 @@ Monero também possui o que é chamado de chave de visualização.
 
 240
 00:13:02,060 --> 00:13:04,340
-A chave de visualização é outra chave primária
+A chave de visualização é outra chave privada
 
 241
 00:13:04,340 --> 00:13:08,500
-que é uma derivação da chave principal.
+que é uma derivação da chave de gasto.
 
 242
 00:13:08,500 --> 00:13:11,640
@@ -976,7 +977,7 @@ Se você tem a chave de visualização
 
 245
 00:13:18,740 --> 00:13:22,440
-você pode ver que transações você esteve envolvido no blockchain.
+você pode ver quais transações você esteve envolvido no blockchain.
 
 246
 00:13:22,500 --> 00:13:25,160
@@ -996,7 +997,7 @@ Existem mais endereços disponíveis no Monero,
 
 250
 00:13:36,160 --> 00:13:38,740
-que significa se você está preocupado com o problema do aniversário -
+que significa se você está preocupado com o problema do aniversário --
 
 251
 00:13:38,740 --> 00:13:41,140
@@ -1012,7 +1013,7 @@ as chances são muito mais altas do que você espera que duas pessoas dessas 30 
 
 254
 00:13:49,140 --> 00:13:53,380
-Se você estende isso para o problema de escolher um número aleatório
+Se você extrapola isso para o problema de escolher um número aleatório
 
 255
 00:13:53,380 --> 00:13:55,400
@@ -1024,11 +1025,11 @@ uma conta de criptomoeda, você tem o mesmo problema.
 
 257
 00:14:00,100 --> 00:14:01,520
-Não há garantia que
+Não há garantias que
 
 258
 00:14:01,520 --> 00:14:04,700
-o número aleatório que você escolheu para sua conta de criptiomoeda
+o número aleatório que você escolheu para sua conta de criptomoeda
 
 259
 00:14:04,700 --> 00:14:07,860
@@ -1040,7 +1041,7 @@ Este é o problema do aniversário e
 
 261
 00:14:10,360 --> 00:14:15,080
-o problema do aniversário é menos preocupante que os endereços são.
+o problema do aniversário é menos preocupante quanto mais endereços existem.
 
 262
 00:14:16,140 --> 00:14:19,720
@@ -1052,11 +1053,11 @@ No Bitcoin é em degraus.
 
 264
 00:14:21,400 --> 00:14:23,680
-Você deve ter ouvido nesta coisa chamada de "halving".
+Você deve ter ouvido esta coisa chamada de "halving".
 
 265
 00:14:23,680 --> 00:14:26,600
-Isto é:a cada 4 anos, no Bitcoin,
+Isto é: a cada 4 anos, no Bitcoin,
 
 266
 00:14:26,600 --> 00:14:29,900
@@ -1064,15 +1065,15 @@ o número de Bitcoins que são dados a mineradores
 
 267
 00:14:29,900 --> 00:14:34,720
-como recompensa por encontra uma página no blockchain é reduzida pela metade.
+como recompensa por encontrar uma página no blockchain é reduzida pela metade.
 
 268
 00:14:34,780 --> 00:14:37,000
-O que significa que em cada calendário dos mineradores
+O que significa que no calendário de cada minerador
 
 269
 00:14:37,000 --> 00:14:39,260
-tem uma data circulada em vermelho em que
+existe uma data circulada em vermelho em que
 
 270
 00:14:39,600 --> 00:14:41,700
@@ -1092,19 +1093,19 @@ No Monero, nós evitamos isso através de uma emissão continuamente decrescente
 
 274
 00:14:54,360 --> 00:14:56,600
-Agora outra diferença e em
+Agora outra diferença é qual
 
 275
 00:14:56,600 --> 00:15:00,140
-o que é a taxa de emissão de moedas no futuro distante.
+é a taxa de emissão de moedas no futuro distante.
 
 276
 00:15:00,340 --> 00:15:04,340
-No Bitcoin, a recompensa por block eventualmente vai a zero
+No Bitcoin, a recompensa por bloco eventualmente vai a zero
 
 277
 00:15:04,340 --> 00:15:10,600
-e eles antecipam usando tarifas de transação para pagar pela diferença.
+e eles antecipam usar as taxas de transação para pagar pela diferença.
 
 278
 00:15:10,620 --> 00:15:15,700
@@ -1116,15 +1117,15 @@ mineradores terão o incentivo de continuar trabalhando para o sistema.
 
 280
 00:15:20,060 --> 00:15:22,760
-E (no) Monero, nós temos o que é chamado de emissão final
+E (no) Monero, nós temos o que é chamado de emissão em cauda
 
 281
 00:15:22,760 --> 00:15:25,860
-que é de 0.6 Monero por bloco
+que é de 0,6 Monero por bloco
 
 282
 00:15:25,860 --> 00:15:27,700
-e que será dada perpetuamente.
+e que será mantida perpetuamente.
 
 283
 00:15:27,700 --> 00:15:32,500
@@ -1136,7 +1137,7 @@ para continuar provendo segurança para a rede.
 
 285
 00:15:36,640 --> 00:15:39,600
-O que é a inflação futura então?
+Qual é a inflação futura então?
 
 286
 00:15:39,600 --> 00:15:43,020
@@ -1144,11 +1145,11 @@ No Bitcoin, eles podem dizer que será exatamente zero.
 
 287
 00:15:43,020 --> 00:15:47,960
-No Bitcoin eles tem a admiração em dizer que apenas existirão 21 milhões de Bitcoins criados
+No Bitcoin eles têm a admiração em dizer que apenas existirão 21 milhões de Bitcoins criados
 
 288
 00:15:47,960 --> 00:15:50,700
-e que é uma coisa fácil de pessoas entenderem.
+e isso é uma coisa fácil de pessoas entenderem.
 
 289
 00:15:51,160 --> 00:15:55,300
@@ -1156,11 +1157,11 @@ Mas no Monero, nós temos uma inflação constante e linear
 
 290
 00:15:55,780 --> 00:15:59,880
-mas não é realmente correto dizer que é uma 'oferta infinita" como
+mas não é realmente correto dizer que é uma "oferta infinita" como
 
 291
 00:15:59,880 --> 00:16:02,400
-o que é propagado sobre isso.
+diz o boato que é disseminado.
 
 292
 00:16:02,400 --> 00:16:05,420
@@ -1168,7 +1169,7 @@ Porque se você olhar para a taxa de inflação, no Monero,
 
 293
 00:16:05,420 --> 00:16:08,240
-ela tende a zero ao longo to tempo.
+ela tende a zero ao longo do tempo.
 
 294
 00:16:08,400 --> 00:16:10,920
@@ -1204,15 +1205,15 @@ ele vai continuar reduzindo.
 
 302
 00:16:30,120 --> 00:16:32,140
-Algumas curvas para mostrar o que eu estou falando -
+Algumas curvas para mostrar o que eu estou falando --
 
 303
 00:16:32,140 --> 00:16:34,180
-Estas são a curava de emissão mostrando
+Estas são as curvas de emissão mostrando
 
 304
 00:16:34,180 --> 00:16:39,460
-quantas moedas de cada tipo existem como função do tempo.
+quantas moedas de cada tipo existem em função do tempo.
 
 305
 00:16:39,800 --> 00:16:43,720
@@ -1220,11 +1221,11 @@ Você pode ver que Monero tem um início tardio aqui
 
 306
 00:16:43,720 --> 00:16:45,620
-e que há uma emissão final
+e que há uma emissão em cauda.
 
 307
 00:16:45,620 --> 00:16:48,960
-Essa emissão final é constante e é uma curva linear
+Essa emissão em cauda é constante e é uma curva linear.
 
 308
 00:16:49,720 --> 00:16:51,620
@@ -1232,7 +1233,7 @@ A razão para esta curva, novamente, é que
 
 309
 00:16:51,620 --> 00:16:57,380
-as novas moedas que são emitidas são dadas aos mineradores que ajudaram a manter a rede segura.
+as novas moedas que são emitidas são dadas aos mineradores que ajudam a manter a rede segura.
 
 310
 00:16:57,440 --> 00:17:02,220
@@ -1248,19 +1249,19 @@ ela vai basicamente a zero.
 
 313
 00:17:07,220 --> 00:17:11,240
-Então há alguns papers por ai que tem
+Então há alguns papers por ai que têm
 
 314
 00:17:11,240 --> 00:17:16,320
-proposto que a segurança da rede pode estar em risco naquele ponto.
+proposto que a segurança da rede pode estar em risco a partir naquele ponto.
 
 315
 00:17:16,420 --> 00:17:19,099
-E se nós pegarmos a primeira derivada dessa curva -
+E se nós pegarmos a primeira derivada dessa curva --
 
 316
 00:17:19,099 --> 00:17:24,579
-então, nós olhamos a quanto mais oferta existe neste ano contra o ano anterior.
+então, nós olhamos o quanto mais de oferta existe neste ano contra o ano anterior.
 
 317
 00:17:24,579 --> 00:17:26,379
@@ -1284,7 +1285,7 @@ Nós geralmente não pensamos que o ouro tem inflação
 
 322
 00:17:36,620 --> 00:17:38,440
-mas é claro que existem mineradores -
+mas é claro que existem mineradores --
 
 323
 00:17:38,440 --> 00:17:41,700
@@ -1304,11 +1305,11 @@ Então, se você pensa que ouro é o dinheiro mais forte
 
 327
 00:17:54,840 --> 00:18:01,500
-então esse 1,5% de taxa de inflação se torna a linha de base.
+então esse 1,5% de taxa de inflação torna-se a linha de base.
 
 328
 00:18:01,540 --> 00:18:04,300
-Como você pode ver - Bitcoin e Monero
+Como você pode ver -- Bitcoin e Monero
 
 329
 00:18:04,300 --> 00:18:07,160
@@ -1320,11 +1321,11 @@ Estamos chegando a um ponto muito interessante na história das criptomoedas
 
 331
 00:18:11,280 --> 00:18:13,880
-nisso, até agora
+em que, até agora
 
 332
 00:18:13,880 --> 00:18:17,360
-tem havido muitas emissões acontecendo.
+tem acontecido muita emissão.
 
 333
 00:18:17,820 --> 00:18:20,080
@@ -1376,11 +1377,11 @@ Como essa é uma característica crucial do consenso de Nakamoto,
 
 345
 00:19:01,920 --> 00:19:06,580
-teoricamente, todos os mineradores são incentivados a ser honestos
+teoricamente, todos os mineradores são incentivados a serem honestos
 
 346
 00:19:06,580 --> 00:19:10,700
-e não tentar enganar o sistema por sua própria ganância.
+e não tentarem enganar o sistema por sua própria ganância.
 
 347
 00:19:12,520 --> 00:19:15,320
@@ -1388,7 +1389,7 @@ Existe uma forma de escassez indesejada e isso é hardware de mineração.
 
 348
 00:19:15,320 --> 00:19:19,620
-E isso é algo que tem sido um grande problema para o Monero.
+E isso é algo que tem sido uma grande questão para o Monero.
 
 349
 00:19:20,260 --> 00:19:24,240
@@ -1460,7 +1461,7 @@ Isso traz uma preocupação de centralização.
 
 366
 00:20:25,520 --> 00:20:29,020
-Não é necessariamente um problema que é a China que tem toda a mineração.
+Não é necessariamente um problema ser a China que detém toda a mineração.
 
 367
 00:20:29,020 --> 00:20:31,080
@@ -1528,7 +1529,7 @@ mas é incapaz de exportá-lo devido a uma guerra comercial.
 
 383
 00:21:29,220 --> 00:21:35,200
-Em Monero, tentamos levar a sério essa questão da descentralização
+No Monero, tentamos levar a sério essa questão da descentralização
 
 384
 00:21:36,220 --> 00:21:38,820
@@ -1568,7 +1569,7 @@ o poder de hash é dominado por essas fazendas enormes do ASICS.
 
 393
 00:22:07,440 --> 00:22:09,880
-Em Monero, estamos tentando mudar isso
+No Monero, estamos tentando mudar isso
 
 394
 00:22:09,880 --> 00:22:12,220
@@ -1632,7 +1633,7 @@ Há outra fonte de escassez
 
 409
 00:23:04,020 --> 00:23:07,020
-que não é necessariamente o que você deseja em uma blockchain,
+que não é necessariamente o que você deseja em um blockchain,
 
 410
 00:23:07,020 --> 00:23:09,200
@@ -1648,7 +1649,7 @@ Houve basicamente uma guerra civil no Bitcoin sobre se estava tudo bem ou não
 
 413
 00:23:19,400 --> 00:23:22,480
-para fazer com que os blocos permaneçam neste limite de 1 megabyte.
+fazer com que os blocos permanecessem neste limite de 1 megabyte.
 
 414
 00:23:22,480 --> 00:23:25,820
@@ -1656,7 +1657,7 @@ Ainda se enfurecem até hoje. Ainda é uma guerra santa
 
 415
 00:23:25,820 --> 00:23:30,060
-e isso é algo que Monero evitou até agora.
+e isso é algo que o Monero evitou até agora.
 
 416
 00:23:30,060 --> 00:23:33,460
@@ -1664,7 +1665,7 @@ Sua solução para isso é usar um tamanho de bloco adaptável
 
 417
 00:23:33,460 --> 00:23:38,380
-em que o tamanho máximo de um bloco Monero é flexível
+em que o tamanho máximo de um bloco do Monero é flexível
 
 418
 00:23:38,380 --> 00:23:43,540
@@ -1676,7 +1677,7 @@ Com, é claro, provisões
 
 420
 00:23:46,060 --> 00:23:50,620
-para impedir que o sistema seja utilizado.
+para impedir que o sistema seja manipulado.
 
 421
 00:23:51,260 --> 00:23:54,500
@@ -1688,15 +1689,15 @@ Há o bulletproof que foi recentemente adicionado e
 
 423
 00:23:56,280 --> 00:24:01,040
-que reduzem o tamanho das transações em um fator de 10.
+que reduz o tamanho das transações em um fator de 10.
 
 424
 00:24:01,040 --> 00:24:07,580
-Da noite pro dia, as taxas de transação pela transação do Monero caíram 10 vezes
+Da noite para o dia, as taxas de transação do Monero caíram 10 vezes
 
 425
 00:24:07,580 --> 00:24:12,460
-porque a taxa de transação é baseada no tamanho de kilobyte da transação.
+porque a taxa de transação é baseada no tamanho em kilobyte da transação.
 
 426
 00:24:27,770 --> 00:24:31,280
@@ -1712,7 +1713,7 @@ do Hospital Mount Sinai em Nova York,
 
 429
 00:24:35,360 --> 00:24:38,080
-ele acabou de ganhar sua primeira luta -
+ele acabou de ganhar sua primeira luta --
 
 430
 00:24:38,080 --> 00:24:40,540
@@ -1736,7 +1737,7 @@ O arquivo dele começou.
 
 435
 00:24:57,010 --> 00:24:58,530
-Quando este bebê é jovem
+Quando este bebê for jovem
 
 436
 00:24:58,530 --> 00:25:00,530
@@ -1748,7 +1749,7 @@ o ano será 1984.
 
 438
 00:25:04,400 --> 00:25:08,320
-Seu 1984 será o mundo que George Orwell previu?
+Seu 1984 será o mundo que George Orwell previu --
 
 439
 00:25:08,320 --> 00:25:10,230
@@ -1764,7 +1765,7 @@ Ou essa criança terá a justiça de Louis Brandeis
 
 442
 00:25:15,150 --> 00:25:16,630
-na virada do século rotulado
+que na virada do século rotulou
 
 443
 00:25:16,630 --> 00:25:18,780
@@ -1784,7 +1785,7 @@ Bitcoin é transparente.
 
 447
 00:25:28,640 --> 00:25:33,160
-Se você é novo na criptografia, pode ter a impressão
+Se você é novo nas criptomoedas, pode ter a impressão
 
 448
 00:25:33,160 --> 00:25:36,360
@@ -1812,7 +1813,7 @@ Bitcoin é completamente transparente
 
 454
 00:25:49,420 --> 00:25:52,120
-e se você ler o white paper Bitcoin, está tudo lá.
+e se você ler o white paper do Bitcoin, está tudo lá.
 
 455
 00:25:52,120 --> 00:25:58,000
@@ -1820,11 +1821,11 @@ e se você ler o white paper Bitcoin, está tudo lá.
 
 456
 00:25:58,000 --> 00:26:03,380
-é gravado em texto simples e gravado na blockchain.
+é gravado em texto simples e gravado no blockchain.
 
 457
 00:26:03,380 --> 00:26:07,120
-Que, porque tem toda essa prova de trabalho por trás disso -
+Que, porque tem toda essa prova de trabalho por trás disso --
 
 458
 00:26:07,120 --> 00:26:10,120
@@ -1836,11 +1837,11 @@ tem um hash que o torna um conjunto de dados muito raro e exclusivo,
 
 460
 00:26:16,340 --> 00:26:20,540
-é o múltiplo de 1 milhão de átomos, certo -
+é o múltiplo de 1 milhão de átomos, certo --
 
 461
 00:26:20,540 --> 00:26:26,120
-basicamente, esses detalhes transparentes são gravados e gravados nesse blockchain para sempre.
+basicamente, esses detalhes transparentes são escritos e gravados nesse blockchain para sempre.
 
 462
 00:26:26,120 --> 00:26:29,720
@@ -1876,7 +1877,7 @@ totalmente transparente é que o endereço Bitcoin
 
 470
 00:26:52,960 --> 00:26:56,860
-é apenas uma string hexadecimal - é uma string.
+é apenas uma string hexadecimal -- é uma string.
 
 471
 00:26:56,860 --> 00:26:57,640
@@ -1884,7 +1885,7 @@ Quero dizer,
 
 472
 00:26:57,640 --> 00:26:59,620
-quando você se resume a isso, tudo é uma string hexadecimal -
+quando você se resume a isso, tudo é uma string hexadecimal --
 
 473
 00:26:59,620 --> 00:27:04,920
@@ -1924,7 +1925,7 @@ O trabalho das pessoas que tentam identificar e documentar todos
 
 482
 00:27:30,360 --> 00:27:32,300
-Você tem essa blockchain todos os dias.
+Você tem esse blockchain todos os dias.
 
 483
 00:27:32,300 --> 00:27:34,300
@@ -1944,7 +1945,7 @@ Basicamente, esses metadados são um meio que
 
 487
 00:27:47,120 --> 00:27:51,420
-continua a reunir nesta blockchain até que você tenha uma situação
+continua a reunir neste blockchain até que você tenha uma situação
 
 488
 00:27:51,420 --> 00:27:54,340
@@ -1976,11 +1977,11 @@ quem enviou o que para quem e quando.
 
 495
 00:28:19,540 --> 00:28:24,040
-A conseqüência infeliz disso é que
+A consequência infeliz disso é que
 
 496
 00:28:24,040 --> 00:28:26,620
-Os Bitcoins têm uma história por trás deles.
+os Bitcoins têm uma história por trás deles.
 
 497
 00:28:26,940 --> 00:28:30,480
@@ -1996,7 +1997,7 @@ Depois que o minerador obtém o Bitcoin e então o gasta, ele começa a circular
 
 500
 00:28:39,620 --> 00:28:43,780
-Mas como a blockchain é transparente, e é totalmente "transparente".
+Mas como o blockchain é transparente, e é totalmente "transparente".
 
 501
 00:28:43,780 --> 00:28:48,740
@@ -2012,11 +2013,11 @@ para essa pessoa desde a mineração.
 
 504
 00:28:56,620 --> 00:29:00,620
-e na parte de trás dessa nota de 10 euros, você vê uma boa lista mostrando
+e na parte de trás dessa nota de 10 euros, você vê uma lista mostrando
 
 505
 00:29:00,620 --> 00:29:04,280
-todos antes de você que possuíam isso.
+todos antes de você que possuíram a nota.
 
 506
 00:29:04,340 --> 00:29:07,700
@@ -2052,7 +2053,7 @@ E eu chamo de moeda de vigilância.
 
 514
 00:29:33,700 --> 00:29:36,460
-Em uma moeda de vigilância, não é apenas o valor que se transmite -
+Em uma moeda de vigilância, não é apenas o valor que se transmite --
 
 515
 00:29:36,460 --> 00:29:38,620
@@ -2088,11 +2089,11 @@ Se eu tenho 10 Monero, você tem 10 Monero e depois
 
 523
 00:30:02,980 --> 00:30:07,840
-nós dois trocamos o 10 Monero por outras pessoas, elas ainda se parecem com 10 Monero.
+nós dois trocamos os 10 Monero com outras pessoas, eles ainda se parecem com 10 Monero.
 
 524
 00:30:07,840 --> 00:30:11,920
-Não há história. Funciona como uma conta em dinheiro.
+Não há histórico. Funciona como uma nota de dinheiro.
 
 525
 00:30:11,920 --> 00:30:15,260
@@ -2120,7 +2121,7 @@ o remetente está alinhado com outros 10 remetentes
 
 531
 00:30:33,540 --> 00:30:40,040
-e a única coisa que você sabe que aconteceu nessa transação é uma dessas 11 pessoas que enviaram dinheiro.
+e a única coisa que você sabe que aconteceu nessa transação é uma dessas 11 pessoas enviou o dinheiro.
 
 532
 00:30:40,040 --> 00:30:42,440
@@ -2128,11 +2129,11 @@ e a única coisa que você sabe que aconteceu nessa transação é uma dessas 11
 
 533
 00:30:42,440 --> 00:30:47,240
-agora você tem 10 amigos ou 10 pessoas aleatórias, 10 disfarces
+agora você tem 10 amigos ou 10 pessoas aleatórias, 10 chamarizes
 
 534
 00:30:47,300 --> 00:30:51,620
-e tudo o que você sabe, criptograficamente, é que um dos 11 que enviou o dinheiro.
+e tudo o que se sabe, criptograficamente, é que um dos 11 que enviou o dinheiro.
 
 535
 00:30:51,700 --> 00:30:53,860
@@ -2144,11 +2145,11 @@ E a identidade dos receptores?
 
 537
 00:30:55,520 --> 00:31:01,640
-Bem, a conta Monero do destinatário não aparece não criptografada no blockchain Monero.
+Bem, a conta Monero do destinatário só aparece criptografada no blockchain Monero.
 
 538
 00:31:02,220 --> 00:31:06,760
-Um endereço de uso único é o que é colocado na blockchain
+Um endereço de uso único é o que é colocado no blockchain
 
 539
 00:31:06,760 --> 00:31:09,680
@@ -2172,7 +2173,7 @@ Isso é coberto com tecnologia, RingCT,
 
 544
 00:31:23,860 --> 00:31:29,240
-que originalmente foi desenvolvido para Bitcoin, mas na verdade foi implementado pela primeira vez em Monero.
+que originalmente foi desenvolvido para Bitcoin, mas na verdade foi implementado pela primeira vez no Monero.
 
 545
 00:31:29,240 --> 00:31:33,180
@@ -2180,11 +2181,11 @@ RingCT significa transações confidenciais.
 
 546
 00:31:33,180 --> 00:31:37,920
-E todas essas coisas (são) combinadas para realizar a fungibilidade de Monero.
+E todas essas coisas (são) combinadas para realizar a fungibilidade do Monero.
 
 547
 00:31:38,920 --> 00:31:40,600
-O resultado final é que em Monero,
+O resultado final é que no Monero,
 
 548
 00:31:40,600 --> 00:31:44,600
@@ -2196,7 +2197,7 @@ Eles não têm memória de onde estiveram,
 
 550
 00:31:46,420 --> 00:31:50,100
-que é realmente o que você quer em dinheiro, porque o oposto,
+que é realmente o que você quer no dinheiro, porque o oposto,
 
 551
 00:31:50,100 --> 00:31:54,060
@@ -2212,7 +2213,7 @@ Como o Monero é fungível, os usuários se beneficiam por ter privacidade.
 
 554
 00:32:08,780 --> 00:32:12,120
-A blockchain Monero é pública assim como o Bitcoin.
+O blockchain Monero é público assim como o Bitcoin.
 
 555
 00:32:12,120 --> 00:32:15,540
@@ -2232,15 +2233,15 @@ pode ter uma cópia desse livro, com o histórico completo de quem enviou o que 
 
 559
 00:32:28,760 --> 00:32:31,100
-A diferença é que, em Monero,
+A diferença é que, no Monero,
 
 560
 00:32:31,100 --> 00:32:35,400
-os detalhes desta blockchain são criptografados
+os detalhes deste blockchain são criptografados
 
 561
 00:32:35,400 --> 00:32:39,660
-de modo que, se você apenas olhar para ela, verá lixo criptografado.
+de modo que, se você apenas olhar para ele, verá lixo criptografado.
 
 562
 00:32:39,660 --> 00:32:42,300
@@ -2248,11 +2249,11 @@ Você não pode fazer o que pode fazer no Bitcoin, que é
 
 563
 00:32:42,300 --> 00:32:47,800
-digitar o endereço Bitcoin de alguém e ver imediatamente quanto dinheiro eles têm.
+digitar o endereço Bitcoin de alguém e ver imediatamente quanto dinheiro ele tem.
 
 564
 00:32:47,940 --> 00:32:51,500
-Eu represento clientes de alto patrimônio líquido, investidores institucionais -
+Eu represento clientes de alto patrimônio líquido, investidores institucionais --
 
 565
 00:32:51,500 --> 00:32:54,900
@@ -2308,7 +2309,7 @@ quanto mais insidioso,
 
 578
 00:33:39,640 --> 00:33:44,620
-mais ameaça é para toda a nossa privacidade.
+maior é a ameaça para toda a nossa privacidade.
 
 579
 00:33:46,160 --> 00:33:48,140
@@ -2320,7 +2321,7 @@ Uma calúnia que acontece é que
 
 581
 00:33:51,540 --> 00:33:55,220
-parece que apenas os criminosos vão querer usá-lo ".
+parece que apenas os criminosos vão querer usá-lo".
 
 582
 00:33:55,820 --> 00:34:00,280
@@ -2340,11 +2341,11 @@ com o dinheiro que não tem memória,
 
 586
 00:34:08,159 --> 00:34:12,039
-não há necessidade de se preocupar em ser falsamente acusado de más ações devido
+não há necessidade de se preocupar em ser falsamente acusado de más ações ao
 
 587
 00:34:12,040 --> 00:34:17,179
-estar a um transação de uma "pessoa má".
+estar uma transação de distâncua de uma "pessoa má".
 
 588
 00:34:17,179 --> 00:34:20,919
@@ -2352,7 +2353,7 @@ Basicamente, quando você aceita uma moeda de vigilância,
 
 589
 00:34:20,920 --> 00:34:26,400
-você está aceitando o risco de que alguém desagradável lhe envie algo.
+você está aceitando o risco que alguém desagradável lhe envie algo.
 
 590
 00:34:26,400 --> 00:34:29,800
@@ -2364,7 +2365,7 @@ camisetas ou algo muito inocente
 
 592
 00:34:33,040 --> 00:34:36,940
-e você decide aceitar o Bitcoin para o seu negócio.
+e você decide aceitar Bitcoin para o seu negócio.
 
 593
 00:34:36,940 --> 00:34:40,860
@@ -2380,7 +2381,7 @@ Você não tinha ideia de que eles eram traficantes de drogas, eles apenas envia
 
 596
 00:34:49,639 --> 00:34:51,219
-e é assim que você ganha dinheiro -
+e é assim que você ganha dinheiro --
 
 597
 00:34:51,219 --> 00:34:53,139
@@ -2388,11 +2389,11 @@ você precisa receber dinheiro das pessoas.
 
 598
 00:34:53,139 --> 00:34:59,280
-Mas porque as pessoas olham a blockchain e colocam rostos e nomes
+Mas porque as pessoas olham o blockchain e colocam rostos e nomes
 
 599
 00:34:59,280 --> 00:35:02,320
-em endereços no blockchain, não sei disso -
+em endereços no blockchain, não sei disso --
 
 600
 00:35:02,320 --> 00:35:04,420
@@ -2404,7 +2405,7 @@ mas no final, é uma avaliação probabilística de
 
 602
 00:35:08,160 --> 00:35:10,740
-essa pessoa ruim é realmente sua conhecida?
+essa se pessoa ruim é realmente sua conhecida?
 
 603
 00:35:11,120 --> 00:35:16,020
@@ -2416,7 +2417,7 @@ A única maneira de alguém descobrir que foi afetado por isso é que
 
 605
 00:35:21,680 --> 00:35:25,500
-"Até o banco que eu associei à minha troca de criptografia"
+"Até o banco que eu associei à minha corretora de criptomoedas"
 
 606
 00:35:25,500 --> 00:35:27,960
@@ -2424,7 +2425,7 @@ A única maneira de alguém descobrir que foi afetado por isso é que
 
 607
 00:35:27,960 --> 00:35:31,700
-"Agora meu banco congelou meus fundos por algum motivo" -
+"Agora meu banco congelou meus fundos por algum motivo" --
 
 608
 00:35:31,700 --> 00:35:35,840
@@ -2432,11 +2433,11 @@ e não tinha nada a ver com o que a pessoa em questão fazia.
 
 609
 00:35:35,840 --> 00:35:38,940
-Só que o dinheiro em si tem isso
+Só que o dinheiro em si tem essa
 
 610
 00:35:38,940 --> 00:35:44,280
-falha fatal de ser totalmente transparente e ter uma história por trás disso.
+falha fatal de ser totalmente transparente e ter uma história por trás dele.
 
 611
 00:35:44,280 --> 00:35:45,980
@@ -2448,11 +2449,11 @@ Não é realmente dinheiro,
 
 613
 00:35:48,320 --> 00:35:53,160
-É como itens colecionáveis ​​com seu próprio número de série que estão sendo repassados ​​nesta economia,
+É como itens colecionáveis com seu próprio número de série que estão sendo repassados nesta economia,
 
 614
 00:35:53,160 --> 00:35:55,860
-não é um dinheiro real.
+não é dinheiro de verdade.
 
 615
 00:35:57,540 --> 00:36:01,560
@@ -2484,19 +2485,19 @@ Existem dois tipos de carros usados.
 
 622
 00:36:20,540 --> 00:36:24,540
-Existem limões, que são os carros usados ​​ruins.
+Existem limões, que são os carros usados ruins.
 
 623
 00:36:24,540 --> 00:36:29,720
-Aqueles são ... você os compra e depois quebram imediatamente - esses são limões.
+São aqueles... você os compra e depois quebram imediatamente -- esses são limões.
 
 624
 00:36:29,720 --> 00:36:33,380
-O outro tipo de carro usado é um pêssego - esses são os bons carros.
+O outro tipo de carro usado é um pêssego -- esses são os carros bons.
 
 625
 00:36:33,380 --> 00:36:36,360
-Aqueles donos dos pêssegos, eles fizeram toda a manutenção.
+Aqueles donos dos pêssegos, eles fazem toda a manutenção.
 
 626
 00:36:36,360 --> 00:36:41,720
@@ -2524,19 +2525,19 @@ No entanto, o comprador do carro é ignorante
 
 632
 00:37:00,100 --> 00:37:08,620
-porque os vendedores de limão e pêssego garantem que a pintura do carro seja mais brilhante.
+porque os vendedores de limão e pêssego garantem que a pintura do carro esteja brilhante.
 
 633
 00:37:09,180 --> 00:37:11,740
-Os carros são todos parecidos com o comprador
+Os carros são todos parecidos para o comprador
 
 634
 00:37:11,740 --> 00:37:15,120
-para que o comprador saiba que eles são vulneráveis ​​nessa situação.
+e os compradores sabe que eles são vulneráveis nessa situação.
 
 635
 00:37:15,120 --> 00:37:19,160
-O comprador sabe que eles podem acabar com um limão.
+Os compradores sabem que eles podem acabar com um limão.
 
 636
 00:37:19,800 --> 00:37:23,420
@@ -2552,7 +2553,7 @@ E por isso, o comprador ajusta o preço da oferta para que seja ligeiramente men
 
 639
 00:37:34,200 --> 00:37:39,820
-A pergunta, o preço de oferta do carro não será exatamente o preço do pêssego aqui.
+O preço de oferta do carro não será exatamente o preço do pêssego aqui.
 
 640
 00:37:39,820 --> 00:37:42,600
@@ -2632,11 +2633,11 @@ Todos os bons vendedores saem do mercado
 
 659
 00:38:54,240 --> 00:39:00,300
-porque eles não estão sendo justamente compensados ​​pelo trabalho que fizeram.
+porque eles não estão sendo justamente compensados pelo trabalho que fizeram.
 
 660
 00:39:00,300 --> 00:39:03,460
-O que tem a ver com as criptomoedas?
+O que isso tem a ver com as criptomoedas?
 
 661
 00:39:03,720 --> 00:39:05,780
@@ -2644,11 +2645,11 @@ Moedas de vigilância
 
 662
 00:39:05,780 --> 00:39:10,820
-que têm um registro total e uma história total de quem os possuía
+que têm um registro total e um histórico total de quem os possuía
 
 663
 00:39:10,820 --> 00:39:14,080
-são os carros usados ​​de criptomoedas.
+são os carros usados das criptomoedas.
 
 664
 00:39:14,740 --> 00:39:19,520
@@ -2668,7 +2669,7 @@ Você não sabe se você aceitar esse Bitcoin...
 
 668
 00:39:31,320 --> 00:39:37,260
-Quem sabe que possível crime pode ter sido realizado pela pessoa que possuía aquiele Bitcoin,
+Quem sabe que possível crime pode ter sido cometido pela pessoa que possuía aquele Bitcoin,
 
 669
 00:39:37,260 --> 00:39:39,240
@@ -2684,11 +2685,11 @@ O que este paper identificou como
 
 672
 00:39:51,720 --> 00:39:56,520
-uma maneira de evitar essa corrida ao fundo - é um sinal.
+uma maneira de evitar essa corrida ao fundo -- é um sinal.
 
 673
 00:39:57,060 --> 00:39:59,680
-Assim, no mercado de carros, por exemplo -
+Assim, no mercado de carros, por exemplo --
 
 674
 00:39:59,680 --> 00:40:02,180
@@ -2704,7 +2705,7 @@ e então você tem um relatório...
 
 677
 00:40:07,780 --> 00:40:09,920
-você pode ver se ele se envolveu em um acidente... -
+você pode ver se ele se envolveu em um acidente... --
 
 678
 00:40:09,920 --> 00:40:12,720
@@ -2716,7 +2717,7 @@ Ideia de negócio para alguém...
 
 680
 00:40:15,100 --> 00:40:17,940
-Isto existe nos EUA, Échamado Carfax
+Isto existe nos EUA. É chamado de Carfax
 
 681
 00:40:17,940 --> 00:40:22,820
@@ -2724,7 +2725,7 @@ e você digita o número de série de um carro e todo o seu histórico aparece.
 
 682
 00:40:22,820 --> 00:40:28,480
-Essa informação pode equalizar o campo de trabalho entre compradores e vendedores de carros.
+Essa informação pode equalizar o patamar entre compradores e vendedores de carros.
 
 683
 00:40:28,480 --> 00:40:30,600
@@ -2748,7 +2749,7 @@ se todos começassem parecendo iguais.
 
 688
 00:40:41,900 --> 00:40:44,560
-Todos os curriculum parecem a mesma coisa depois de um tempo.
+Todos os currículos parecem a mesma coisa depois de um tempo.
 
 689
 00:40:44,560 --> 00:40:49,100
@@ -2796,7 +2797,7 @@ O propósito verdadeiro de educação se perde.
 
 700
 00:41:27,120 --> 00:41:31,040
-Isto está acontecendo com criptomoedas não fungíveis também.
+Isto está acontecendo com criptomoedas não-fungíveis também.
 
 701
 00:41:31,040 --> 00:41:34,720
@@ -2804,7 +2805,7 @@ Agora, todo mundo que cria uma conta
 
 702
 00:41:34,720 --> 00:41:36,320
-em uma exchange centralizada
+em uma corretora centralizada
 
 703
 00:41:36,320 --> 00:41:40,060
@@ -2824,7 +2825,7 @@ Você tem que enviar toda essa informação apenas para ser declarado apto
 
 707
 00:41:50,580 --> 00:41:54,360
-para participar na criptoeconomia.
+a participar na criptoeconomia.
 
 708
 00:41:54,360 --> 00:41:57,320
@@ -2836,11 +2837,11 @@ Mas o que é interessante é que em criptomoedas,
 
 710
 00:42:00,300 --> 00:42:06,720
-atualmente, as exchanges carregam o fardo de verificar os seus clientes.
+atualmente, as corretoras carregam o fardo de verificar os seus clientes.
 
 711
 00:42:06,960 --> 00:42:11,480
-É um custo para as exchanges fazer isso, para verificar todas as pessoas.
+É um custo para as corretoras fazer isso, verificar todas as pessoas.
 
 712
 00:42:11,480 --> 00:42:16,080
@@ -2860,19 +2861,19 @@ Apenas retrocedendo um passo.
 
 716
 00:42:29,100 --> 00:42:31,500
-Passamos sobre escassez no Bitcoin e Monero
+Passamos pela escassez no Bitcoin e Monero
 
 717
 00:42:31,500 --> 00:42:34,980
-e passamos sobre a fungibilidade e privacidade no Bitcoin e no Monero.
+e passamos pela fungibilidade e privacidade no Bitcoin e no Monero.
 
 718
 00:42:34,980 --> 00:42:36,340
-E se voltamos um passo atrás,
+E se voltarmos um passo atrás,
 
 719
 00:42:36,340 --> 00:42:41,360
-eu posso identificar o que eu penso é a razão porque as criptomoedas não vão desaparecer -
+eu posso identificar o que eu penso ser a razão porque as criptomoedas não vão desaparecer --
 
 720
 00:42:41,360 --> 00:42:43,780
@@ -2884,7 +2885,7 @@ Agora nós temos a internet,
 
 722
 00:42:45,760 --> 00:42:48,940
-nós temos redes móveis de telecomunicação -
+nós temos redes móveis de telecomunicação --
 
 723
 00:42:48,940 --> 00:42:53,000
@@ -2944,7 +2945,7 @@ existir uma sequência de bits que apenas você sabe
 
 737
 00:43:39,400 --> 00:43:42,280
-que é criptomoeda - esta é a chave privada.
+que é criptomoeda -- esta é a chave privada.
 
 738
 00:43:42,280 --> 00:43:44,260
@@ -2964,11 +2965,11 @@ como se você tivesse compartilhado o seu almoço no facebook com o mundo todo
 
 742
 00:43:53,820 --> 00:43:58,680
-e outros detalhes da sua vida estão basicamente copiados por aí.
+e outros detalhes da sua vida basicamente são copiados por aí.
 
 743
 00:43:58,680 --> 00:44:02,260
-Estas são as duas coisa que serão escassas no futuro:
+Estas são as duas coisas que serão escassas no futuro:
 
 744
 00:44:02,260 --> 00:44:05,700
@@ -3000,7 +3001,7 @@ A notas de dinheiro e até as moedas
 
 751
 00:44:28,510 --> 00:44:30,510
-não são elas próprias valiosas
+não são elas próprias valiosas tanto
 
 752
 00:44:30,510 --> 00:44:32,380
@@ -3008,7 +3009,7 @@ quanto os valores que representam.
 
 753
 00:44:32,380 --> 00:44:35,320
-Os valores de face, no entanto, são garantidos -
+Os valores de face, no entanto, são garantidos --
 
 754
 00:44:35,320 --> 00:44:38,510
@@ -3020,7 +3021,7 @@ mas pela estabilidade do governo
 
 756
 00:44:40,600 --> 00:44:42,520
-que então fixou estes valores.
+que fixou estes valores.
 
 757
 00:44:42,520 --> 00:44:44,350
@@ -3044,7 +3045,7 @@ sem questionar o seu valor.
 
 762
 00:44:54,370 --> 00:44:56,930
-No passado quando nós tivemos moeda fiduciária,
+No passado quando nós tinhamos somente moeda fiduciária,
 
 763
 00:44:56,930 --> 00:45:00,030
@@ -3060,11 +3061,11 @@ Se você nasce na zona Européia, bem, você usa Euros.
 
 766
 00:45:07,750 --> 00:45:10,870
-Eu nasci nos EUA, então eu uso do dólar americano.
+Eu nasci nos EUA, então eu uso o dólar americano.
 
 767
 00:45:11,050 --> 00:45:13,390
-Esse tipo de coisa é dito pra você no nascimento
+Esse tipo de coisa é dito a você no nascimento
 
 768
 00:45:13,390 --> 00:45:15,990
@@ -3088,7 +3089,7 @@ Isto é mais aberto, isto é realmente como a reforma protestante da igreja.
 
 773
 00:45:36,030 --> 00:45:39,070
-Um outro famoso alemão, Marinho Lutero
+Um outro famoso alemão, Martinho Lutero
 
 774
 00:45:39,070 --> 00:45:43,970
@@ -3096,7 +3097,7 @@ que liberou a teologia do tipo de
 
 775
 00:45:43,970 --> 00:45:46,190
-controle centralizado da igreja católica.
+controle centralizado da igreja católica
 
 776
 00:45:46,190 --> 00:45:51,270
@@ -3104,7 +3105,7 @@ e liberou esta habilidade para as pessoas elegerem
 
 777
 00:45:51,270 --> 00:45:54,510
-de venerar na forma que elas escolherem.
+e venerarem na forma que elas escolherem.
 
 778
 00:45:54,730 --> 00:46:00,370
@@ -3116,15 +3117,15 @@ quase 11 anos e um mês de idade.
 
 780
 00:46:03,850 --> 00:46:08,630
-Agora é possível que cada um de nós nos identificar e escolher um grupo,
+Agora é possível que cada um de nós escolha um grupo,
 
 781
 00:46:08,630 --> 00:46:10,850
-"escolha sua igreja", escolha sua própria
+"escolha sua igreja", escolha sua própria...
 
 782
 00:46:10,890 --> 00:46:12,450
-como, isto não é realmente correto
+bom, isto não é realmente correto
 
 783
 00:46:12,450 --> 00:46:13,450
@@ -3152,15 +3153,15 @@ está realmente preocupado com o fato de
 
 789
 00:46:34,090 --> 00:46:39,410
-a moeda tem o conhecimento perfeito do histórico de cada moeda que está em circulação.
+a moeda ter o conhecimento perfeito do histórico de cada moeda que está em circulação.
 
 790
 00:46:39,410 --> 00:46:45,550
-E isto é uma grande associação de pessoas onde todos tem a crença compartilhada
+E isto é uma grande associação de pessoas onde todos têm a crença compartilhada
 
 791
 00:46:45,550 --> 00:46:51,330
-que o que possuem em sua blockchain é dinheiro
+que o que possuem em seu blockchain é dinheiro
 
 792
 00:46:51,330 --> 00:46:54,230
@@ -3180,11 +3181,11 @@ e que por caso, eu estou me voluntariando para estar aqui.
 
 796
 00:47:07,050 --> 00:47:10,070
-Eu paguei do meu próprio dinheiro para estar aqui vindo de Boston
+Eu paguei do meu próprio bolso para vir de Boston
 
 797
 00:47:10,070 --> 00:47:14,610
-para compartilhar o que eu penso
+para compartilhar o que eu penso,
 
 798
 00:47:14,610 --> 00:47:18,430
@@ -3192,19 +3193,19 @@ meu entendimento do estado atual das criptomoedas com vocês.
 
 799
 00:47:18,430 --> 00:47:21,910
-Monero é basicamente, como se fosse uma caridade.
+Monero é basicamente, é gerido como se fosse uma caridade.
 
 800
 00:47:21,910 --> 00:47:23,710
-Não tem empresa atrás dele.
+Não tem uma empresa por atrás dele.
 
 801
 00:47:23,710 --> 00:47:29,370
-Não existe pre-mine, não existe golpe oferecendo formas de ficar rico
+Não existe pre-mine, não existe golpe oferecendo formas de ficar rico.
 
 802
 00:47:29,370 --> 00:47:34,430
-Toda a existência do Monero foi oferecida no passado a um minerador
+Todo o Monero em existência foi oferecido no passado a um minerador
 
 803
 00:47:34,430 --> 00:47:38,890
@@ -3212,7 +3213,7 @@ que estava fazendo o trabalho de contabilidade para ajudar a suportar a rede, ta
 
 804
 00:47:39,110 --> 00:47:41,930
-Tanto Bitcoin e monero tem o aspecto positivo que não existe
+Tanto Bitcoin quanto Monero tem o aspecto positivo que não existe
 
 805
 00:47:41,930 --> 00:47:46,670
@@ -3228,7 +3229,7 @@ Apenas pessoas normais escolhendo rodar alguma
 
 808
 00:47:55,690 --> 00:47:57,790
-rede ponto a ponto no seu computador
+rede ponto-a-ponto no seu computador
 
 809
 00:47:57,790 --> 00:48:02,530
@@ -3284,7 +3285,7 @@ observado pessoalmente nas reuniões de Monero que tenho participado.
 
 822
 00:48:47,610 --> 00:48:50,810
-No Monero Research Lab - nós temos PhDs em tempo integral
+No Monero Research Lab -- nós temos PhDs em tempo integral
 
 823
 00:48:51,150 --> 00:48:54,590
@@ -3300,19 +3301,19 @@ ciência pura é feita no Monero Reserch Lab.
 
 826
 00:49:00,070 --> 00:49:03,230
-Então, execuções da ideias promissoras são testadas
+Então, implementações das ideias promissoras são testadas
 
 827
 00:49:03,230 --> 00:49:08,890
-então tem o processo de auditoria que realmente aplica -
+então tem o processo de auditoria que realmente aplicamos --
 
 828
 00:49:09,090 --> 00:49:12,270
-auditores externos para olhar o código em linguagem de programação criado.
+auditores externos para olhar a implementação em código e linguagem de programação.
 
 829
 00:49:12,270 --> 00:49:16,850
-Quando eles estão prontos, eles são enviados para liberação.
+Quando eles estão prontos, seguimos para o lançamento.
 
 830
 00:49:16,850 --> 00:49:21,670
@@ -3320,7 +3321,7 @@ Existe esse processo de produção de tecnologia da ciência para a engenharia
 
 831
 00:49:21,670 --> 00:49:25,210
-que é enviado para a liberação do Monero
+que é enviado para lançamentos do Monero
 
 832
 00:49:25,210 --> 00:49:27,670
@@ -3352,7 +3353,7 @@ se ele tem que caber na memória RAM.
 
 839
 00:49:46,430 --> 00:49:51,350
-O banco de dados LMDB - que foi o cérebro de Howard Chu
+O banco de dados LMDB -- que foi criação de Howard Chu
 
 840
 00:49:51,350 --> 00:49:54,590
@@ -3360,11 +3361,11 @@ que é um dos frequentes contribuidores
 
 841
 00:49:54,590 --> 00:50:02,710
-e um tipo de guru de Linux e software livre - foi adicionado ao Monero.
+e um tipo de guru de Linux e software livre -- foi adicionado ao Monero.
 
 842
 00:50:03,230 --> 00:50:06,130
-Monero é atualmente o número 3 em termos de esforço de desenvolvimento
+Monero é atualmente o número 3 em termos de esforço de desenvolvimento.
 
 843
 00:50:06,130 --> 00:50:12,230
@@ -3376,7 +3377,7 @@ Primeiro Bitcoin, segundo Ethereum e então Monero.
 
 845
 00:50:16,890 --> 00:50:18,150
-Bem, em minha opinião
+Bem, na minha opinião
 
 846
 00:50:18,150 --> 00:50:21,610
@@ -3404,11 +3405,11 @@ Ele precisa ser compreendido de forma completa.
 
 852
 00:50:39,510 --> 00:50:44,550
-Estas coisas como... deveria o dinheiro ter a história de transações registrada nele
+Estas coisas como... deveria o dinheiro ter o histórico de transações registrada nele
 
 853
 00:50:44,550 --> 00:50:47,490
-ou deveria ser ele fungível?
+ou ele deveria ser fungível?
 
 854
 00:50:47,490 --> 00:50:49,390
@@ -3416,11 +3417,11 @@ Como aquela ideia básica que
 
 855
 00:50:49,390 --> 00:50:53,390
-decisão de desenho de engenharia básica tem que ser feito no início
+decisões básicas de desenho de engenharia precisam ser feitas no início
 
 856
 00:50:53,390 --> 00:50:59,270
-porque a tecnologia que é necessária para criar fungibilidade no Monero - é bem não trivial.
+porque a tecnologia que é necessária para criar fungibilidade no Monero -- não é nada trivial.
 
 857
 00:50:59,630 --> 00:51:01,890
@@ -3448,11 +3449,11 @@ e, como eu disse anteriormente,
 
 863
 00:51:17,150 --> 00:51:24,690
-todo o financiamento para suportar tudo isso é completamente 100% balançando um caneco
+todo o financiamento para suportar tudo isso é completamente (100%) balançando um caneco
 
 864
 00:51:24,690 --> 00:51:28,130
-e pedindo para que pessoas doem de boa vontade dos seus corações.
+e pedindo para que pessoas doem de boa vontade, dos seus corações.
 
 865
 00:51:28,130 --> 00:51:31,290
@@ -3464,15 +3465,15 @@ Elas de fato dão um passo à frente
 
 867
 00:51:33,310 --> 00:51:35,650
-e enchem os canecos.
+e enchem os canecos (doam).
 
 868
 00:51:35,650 --> 00:51:38,370
-Mas se você olhar para o orçamento anual -
+Mas se você olhar para o orçamento anual --
 
 869
 00:51:38,370 --> 00:51:41,290
-se Monero fosse uma empresa, o que não é -
+se Monero fosse uma empresa, o que não é --
 
 870
 00:51:41,290 --> 00:51:44,850
@@ -3512,7 +3513,7 @@ Eu vou trocar de chapéu um pouquinho.
 
 879
 00:52:16,230 --> 00:52:19,970
-Como mencionei, um dos meus trabalhos antes de trabalhar só em criptomoedas -
+Como mencionei, um dos meus trabalhos antes de trabalhar só em criptomoedas --
 
 880
 00:52:19,970 --> 00:52:22,370
@@ -3544,7 +3545,7 @@ e retornos, e o preço subindo até a lua.
 
 887
 00:52:47,030 --> 00:52:49,250
-Eu espero que, bem -
+Eu espero que, bem --
 
 888
 00:52:49,250 --> 00:52:53,210
@@ -3556,11 +3557,11 @@ tem um paper que eu sou co-autor no efeito da liquidez em preços de ativos
 
 890
 00:52:57,410 --> 00:53:01,970
-que ganho o prêmio de artigo do ano em finanças aplicadas;
+que ganhou o prêmio de artigo do ano em finanças aplicadas;
 
 891
 00:53:02,290 --> 00:53:05,730
-e que, combinado com o prêmio Nobel que eu expliquei -
+e que, combinado com o prêmio Nobel que eu expliquei --
 
 892
 00:53:05,730 --> 00:53:12,090
@@ -3576,7 +3577,7 @@ Mas o fato é que este projeto vai atrair investidores,
 
 895
 00:53:22,490 --> 00:53:24,190
-e vai atrair os hodlers (pessoas que compram criptomoedas pra guardar indefinidamente).
+e vai atrair os hodlers (pessoas que compram criptomoedas para guardar indefinidamente).
 
 896
 00:53:24,190 --> 00:53:26,390
@@ -3608,15 +3609,15 @@ existem ETFs que vão investir apenas nestas companhias.
 
 903
 00:53:48,990 --> 00:53:51,430
-se você realmente se preocupa com sustentabilidade
+se você realmente se preocupa com sustentabilidade,
 
 904
 00:53:51,590 --> 00:53:55,630
-e existe um investimento para você.
+existe um investimento para você.
 
 905
 00:53:55,630 --> 00:53:58,890
-Se, por exemplo, digamos que finanças islâmicas -
+Se, por exemplo, digamos que finanças islâmicas --
 
 906
 00:53:58,890 --> 00:54:03,050
@@ -3632,7 +3633,7 @@ que não envolvem pagamento de juros em empréstimos.
 
 909
 00:54:10,770 --> 00:54:17,030
-Monero - se você olhar em o mesmo tipo de lente - é basicamente um hedge idealista
+Monero -- se você olhar com o mesmo tipo de lente -- é basicamente um hedge idealista
 
 910
 00:54:17,030 --> 00:54:19,850
@@ -3660,7 +3661,7 @@ e fica lá para sempre,
 
 916
 00:54:41,290 --> 00:54:45,490
-e não tem qualquer ou nenhum controle sobre isto.
+e temos pouco ou nenhum controle sobre isto.
 
 917
 00:54:46,350 --> 00:54:48,090
@@ -3684,7 +3685,7 @@ e que é por causa da consciência do que acontece quando não há limites nos p
 
 922
 00:55:09,450 --> 00:55:11,850
-Um projeto como o Monero é um hedge -
+Um projeto como o Monero é um hedge --
 
 923
 00:55:11,850 --> 00:55:16,370
@@ -3692,7 +3693,7 @@ Um projeto como o Monero é um hedge -
 
 924
 00:55:16,370 --> 00:55:20,170
-para pessoas que tem fortes sentimentos nestes dois pontos -
+para pessoas que têm fortes sentimentos nestes dois pontos --
 
 925
 00:55:20,390 --> 00:55:23,130
@@ -3720,7 +3721,7 @@ Então com Monero, isso tende a acontecer.
 
 931
 00:55:40,590 --> 00:55:43,330
-Um monte de pessoas no Monero eram do Bitcoin,
+Um monte de pessoas no Monero era do Bitcoin,
 
 932
 00:55:43,330 --> 00:55:45,970
@@ -3756,7 +3757,7 @@ que se torna amplamente adotado pela lei de Gresham.
 
 940
 00:56:06,170 --> 00:56:11,190
-Esta é outra tendência que vai acontecer para as pessoas: querer guardar Monero
+Esta é outra tendência que vai acontecer com as pessoas: querer guardar Monero
 
 941
 00:56:11,190 --> 00:56:13,370
@@ -3792,11 +3793,11 @@ e tem uma razão real de existir
 
 949
 00:56:35,890 --> 00:56:39,310
-e então que está também atraindo investimento para o Monero.
+e isso que está também atraindo investimento para o Monero.
 
 950
 00:56:39,310 --> 00:56:45,330
-A pergunta é:podem estes novos investidores se integrar à comunidade?
+A pergunta é: podem estes novos investidores se integrar à comunidade?
 
 951
 00:56:45,570 --> 00:56:48,590
@@ -3812,7 +3813,7 @@ que sua inclinação possa ser querer falar com o "gerente do Monero"
 
 954
 00:56:57,450 --> 00:57:00,450
-e ter uma palavra com ele sobre a agenda de liberação de versão.
+e ter uma palavra com ele sobre a agenda de lançamento de versões.
 
 955
 00:57:00,450 --> 00:57:02,730
@@ -3820,7 +3821,7 @@ E eles querem essa, e essa e essa funcionalidade
 
 956
 00:57:02,770 --> 00:57:04,730
-adicionada na próxima versão -
+adicionada na próxima versão --
 
 957
 00:57:04,730 --> 00:57:06,370
@@ -3876,7 +3877,7 @@ podem ser membros valiosos da comunidade. Ao invés de ser
 
 970
 00:57:46,670 --> 00:57:48,830
-autodenominados clientes e pensando que são clientes,
+autodenominados clientes e pensarem que são clientes,
 
 971
 00:57:48,830 --> 00:57:52,370
@@ -3892,23 +3893,23 @@ Eles farão coisas como auto-custodiar suas moedas
 
 974
 00:57:58,410 --> 00:58:01,850
-e não apenas deixá-las na exchange que é o que várias pessoas fazem.
+e não apenas deixá-las na corretora que é o que várias pessoas fazem.
 
 975
 00:58:01,850 --> 00:58:04,590
-Muitas pessoas deixam suas criptomoedas em exchanges
+Muitas pessoas deixam suas criptomoedas em corretoras
 
 976
 00:58:04,590 --> 00:58:07,130
-então a exchange é hackeada, eles perdem o dinheiro.
+então a corretora é hackeada, eles perdem o dinheiro.
 
 977
 00:58:07,130 --> 00:58:09,770
-A realidade é: se o dinheiro está na exchange,
+A realidade é: se o dinheiro está na corretora,
 
 978
 00:58:09,770 --> 00:58:12,070
-você não possui a chave primária e ele não é seu dinheiro.
+você não possui a chave privada e ele não é seu dinheiro.
 
 979
 00:58:12,070 --> 00:58:14,570
@@ -3920,7 +3921,7 @@ não é criptomoeda o que você possui
 
 981
 00:58:17,690 --> 00:58:24,230
-e existe um tipo de uma lista de aspectos que eu penso são próprios para
+e existe um tipo de lista de aspectos que eu penso são próprios para
 
 982
 00:58:24,230 --> 00:58:31,810
@@ -3948,7 +3949,7 @@ o conceito todo de trust pode ser um pouco estranho
 
 988
 00:58:55,470 --> 00:58:57,630
-porque ele vem da common law inglesa.
+porque ele vem da lei comum inglesa.
 
 989
 00:58:57,630 --> 00:59:01,530
@@ -4016,11 +4017,11 @@ O beneficiário é o dono legal dos ativos que estão no trust
 
 1005
 00:59:49,570 --> 00:59:52,850
-mas o dono legal com as condições.
+mas o dono legal dentro das condições.
 
 1006
 00:59:52,850 --> 00:59:55,670
-O dono legal não pode  fazer o que quiser com a propriedade,
+O dono legal não pode fazer o que quiser com a propriedade,
 
 1007
 00:59:55,670 --> 01:00:00,250
@@ -4044,7 +4045,7 @@ quais jurisdições você põe os vários participantes do trust,
 
 1012
 01:00:19,410 --> 01:00:22,650
-há vantagens que podem ser obtidas -
+há vantagens que podem ser obtidas --
 
 1013
 01:00:22,650 --> 01:00:25,470
@@ -4052,15 +4053,15 @@ que são muito dependentes da jurisdição,
 
 1014
 01:00:25,470 --> 01:00:29,490
-e isto é completamente impossível para mim to falar abertamente
+e isto é completamente impossível para mim, ter de falar abertamente
 
 1015
 01:00:29,490 --> 01:00:31,250
-por causa da complexidade disto -
+por causa da complexidade disto --
 
 1016
 01:00:31,250 --> 01:00:35,850
-mas benefícios possíveis são redução de impostos legalmente,
+mas os benefícios possíveis são redução de impostos legalmente,
 
 1017
 01:00:35,850 --> 01:00:37,930
@@ -4072,11 +4073,11 @@ Em outras palavras, se dinheiro está em um trust,
 
 1019
 01:00:41,490 --> 01:00:45,010
-não é dinheiro do proprietário mais,
+não é mais dinheiro do doador,
 
 1020
 01:00:45,010 --> 01:00:48,110
-não é mais propriedade em dinheiro, é dinheiro do trust.
+não é mais dinheiro do proprietário, é dinheiro do trust.
 
 1021
 01:00:48,110 --> 01:00:51,970
@@ -4084,7 +4085,7 @@ Se alguém processa o dono, a fortuna é protegida.
 
 1022
 01:00:51,970 --> 01:00:54,430
-Não é mais dele, pertence ao fundo
+Não é mais dele, pertence ao trust.
 
 1023
 01:00:54,430 --> 01:00:59,430
@@ -4108,15 +4109,15 @@ Pessoas são frequentemente roubadas por pessoas com quem casaram-se recentement
 
 1028
 01:01:18,550 --> 01:01:22,870
-e acontece que trusts irrevogáveis são feitos antes do casamento -
+e acontece que trusts irrevogáveis feitos antes do casamento --
 
 1029
 01:01:22,870 --> 01:01:25,330
-você tem que fazer isso antes senão não conta -
+você tem que fazer isso antes senão não conta --
 
 1030
 01:01:25,330 --> 01:01:31,350
-mas isto é uma das poucas coisas que pode sobreviver um desafio.
+mas isto é uma das poucas coisas que pode sobreviver a uma disputa.
 
 1031
 01:01:32,570 --> 01:01:34,330
@@ -4128,7 +4129,7 @@ dependendo da jurisdição em que você cria o trust
 
 1033
 01:01:37,470 --> 01:01:43,690
-você pode beneficiar de privacidade avançada protegendo estes ativos.
+você pode se beneficiar de privacidade avançada protegendo estes ativos.
 
 1034
 01:01:43,690 --> 01:01:47,030
@@ -4148,11 +4149,11 @@ que "America é a nova Suíça"
 
 1038
 01:01:57,350 --> 01:02:02,170
-E isto é porque os EUApossuem leis que são assimétricas.
+E isto é porque os EUA possuem leis que são assimétricas.
 
 1039
 01:02:02,170 --> 01:02:06,110
-EUA tem leis chamadas de FATCA, que foi criada pelo Obama,
+Os EUA tem uma lei chamada FATCA, que foi criada pelo Obama,
 
 1040
 01:02:06,110 --> 01:02:14,250
@@ -4160,7 +4161,7 @@ que requer que instituições financeiras de todo o mundo enviem dados sobre ame
 
 1041
 01:02:14,250 --> 01:02:18,090
-Isto é porque é quase impossível para um americano conseguir uma conta num banco alemão
+Isto explica porque é quase impossível para um americano conseguir uma conta num banco alemão
 
 1042
 01:02:18,170 --> 01:02:20,930
@@ -4172,7 +4173,7 @@ terá uma quantidade enorme de requerimentos de relatório
 
 1044
 01:02:24,810 --> 01:02:28,530
-para o IRS partir pra cima deste cliente americano.
+para o IRS partir para cima deste cliente americano.
 
 1045
 01:02:28,750 --> 01:02:30,590
@@ -4180,7 +4181,7 @@ para o IRS partir pra cima deste cliente americano.
 
 1046
 01:02:30,590 --> 01:02:34,250
-quando eles saem do país pra trabalhar.
+quando eles saem do país para trabalhar.
 
 1047
 01:02:34,690 --> 01:02:39,050
@@ -4188,7 +4189,7 @@ Em reação a isto, os outros países surgiram com o que é chamado CRS
 
 1048
 01:02:39,050 --> 01:02:41,210
-que é "Common Reporting Standard."
+que é "Common Reporting Standard" (Padrão Comum de Relatório).
 
 1049
 01:02:41,390 --> 01:02:44,970
@@ -4208,11 +4209,11 @@ então eles assinam este acordo
 
 1053
 01:02:55,850 --> 01:02:59,330
-para todos esses países compartilhar informações financeiras entre si
+para todos esses países compartilharem informações financeiras entre si
 
 1054
 01:02:59,330 --> 01:03:02,650
-e certificar que ninguém está trapaceando nos impostos.
+e certificarem-se que ninguém está trapaceando nos impostos.
 
 1055
 01:03:02,910 --> 01:03:06,510
@@ -4228,7 +4229,7 @@ Então aqui está a assimetria
 
 1058
 01:03:12,390 --> 01:03:18,310
-que para os cidadãos do EUA que estão com negócios fora do país,
+que para os cidadãos dos EUA que estão com negócios fora do país,
 
 1059
 01:03:18,310 --> 01:03:20,310
@@ -4288,11 +4289,11 @@ Este é um pouco complicado mas
 
 1073
 01:04:26,600 --> 01:04:32,280
-este está mostrando mensalmente o grau de quanto Monero subiu e desceu
+este está mostrando mensalmente o grau de quanto o Monero subiu e desceu
 
 1074
 01:04:32,280 --> 01:04:35,180
-contra os graus do Bitcoin
+contra os graus do Bitcoin,
 
 1075
 01:04:35,180 --> 01:04:38,860
@@ -4300,7 +4301,7 @@ contra os graus do mercado de ações dos EUA,
 
 1076
 01:04:38,860 --> 01:04:41,960
-do mercado de títulos americano e o ouro.
+do mercado de títulos americano e do ouro.
 
 1077
 01:04:43,060 --> 01:04:46,080
@@ -4312,7 +4313,7 @@ está mostrando a interseção entre Monero e Bitcoin.
 
 1079
 01:04:49,400 --> 01:04:52,800
-Neste eixo você vê o retorno do monero,
+Neste eixo você vê o retorno do Monero,
 
 1080
 01:04:52,800 --> 01:04:55,480
@@ -4336,15 +4337,15 @@ Aqui você pode também ver que há alguns meses de valores extremos para o Mone
 
 1085
 01:05:10,800 --> 01:05:16,220
-Neste mês em particular, Monero basicamente quadruplicou em um mês.
+Neste mês em particular, o Monero basicamente quadruplicou em um mês.
 
 1086
 01:05:16,740 --> 01:05:18,200
-Esta parte de se ter criptomoedas -
+Esta parte de se ter criptomoedas --
 
 1087
 01:05:18,200 --> 01:05:21,660
-que você está nessa monta russa louca -
+que você está nessa montanha-russa louca --
 
 1088
 01:05:21,660 --> 01:05:24,860
@@ -4376,11 +4377,11 @@ Eles sobem e descem juntos.
 
 1095
 01:05:40,580 --> 01:05:42,480
-Na teoria moderna de portfólio -
+Na teoria moderna de portfólio --
 
 1096
 01:05:42,480 --> 01:05:46,380
-e isto é verdadeiro para o seu portfólio pessoa, é uma ideia para se pensar -
+e isto é verdadeiro para o seu portfólio pessoal, é uma ideia para se pensar --
 
 1097
 01:05:46,380 --> 01:05:51,520
@@ -4388,7 +4389,7 @@ se você tem dois ativos que você espera ir bem no futuro
 
 1098
 01:05:52,920 --> 01:05:55,680
-e eles são não correlacionados, em outras palavras,
+e eles não são correlacionados, em outras palavras,
 
 1099
 01:05:55,680 --> 01:06:00,380
@@ -4420,7 +4421,7 @@ Ela var ser reduzida
 
 1106
 01:06:18,780 --> 01:06:23,860
-porque os componentes que você está adicionando são não correlacionados.
+porque os componentes que você está adicionando não são correlacionados.
 
 1107
 01:06:24,520 --> 01:06:26,980
@@ -4444,7 +4445,7 @@ Wall Street está sempre procurando por fontes de alpha não correlacionado.
 
 1112
 01:06:43,880 --> 01:06:51,280
-Por exemplo, se você olhar para a correlação do Monero com ativos como ações dos EUA,  nós temos 0,01.
+Por exemplo, se você olhar para a correlação do Monero com ativos como ações dos EUA, nós temos 0,01.
 
 1113
 01:06:52,400 --> 01:06:55,100
@@ -4480,7 +4481,7 @@ Deixe-me mostrar isto e então eu finalizarei.
 
 1121
 01:07:18,580 --> 01:07:23,500
-Me desculpem, eu estou estourando o tempo - mas eu acho que não tem ninguém depois de mim -
+Me desculpem, eu estou estourando o tempo -- mas eu acho que não tem ninguém depois de mim --
 
 1122
 01:07:23,500 --> 01:07:25,840
@@ -4500,7 +4501,7 @@ Isto está mostrando desde o começo das criptomoedas, 2009 até 2020.
 
 1126
 01:07:39,360 --> 01:07:41,040
-Isto é 11 anos de histórico
+São 11 anos de histórico
 
 1127
 01:07:41,040 --> 01:07:45,880
@@ -4600,7 +4601,7 @@ Isto é incrível porque ele está subindo ordens de magnitude
 
 1151
 01:09:11,640 --> 01:09:16,020
-e ainda sendo comparado a outros ativos, isto ainda é um bebê.
+e ainda, se comparado a outros ativos, ainda é um bebê.
 
 1152
 01:09:16,020 --> 01:09:17,700
@@ -4612,7 +4613,7 @@ O que eu fiz aqui é --
 
 1154
 01:09:19,680 --> 01:09:26,420
-é difícil de entender se alguém diz pra você que o preço do Bitcoin é 7.000 dólares.
+é difícil de entender se alguém diz para você que o preço do Bitcoin é 7.000 dólares.
 
 1155
 01:09:26,420 --> 01:09:31,600
@@ -4632,7 +4633,7 @@ e isto é difícil de se colocar em perspectiva.
 
 1159
 01:09:41,060 --> 01:09:43,060
-O que eu fiz aqui é eu tirei o
+O que eu fiz aqui é: eu tirei o
 
 1160
 01:09:43,399 --> 01:09:47,279
@@ -4688,11 +4689,11 @@ mas também uma boa parte em jóias, e assim por diante,
 
 1173
 01:10:25,640 --> 01:10:27,640
-e h´a estimativas disto.
+e há estimativas disso.
 
 1174
 01:10:28,020 --> 01:10:32,720
-Basicamente, há estimativas para quanto ouro existe no mundo a qualquer tempo
+Basicamente, há estimativas para quanto ouro existe no mundo em qualquer momento
 
 1175
 01:10:32,720 --> 01:10:35,940
@@ -4720,7 +4721,7 @@ Em outras palavras, todo o ouro do mundo vale 100 vezes o que o Bitcoin vale.
 
 1181
 01:10:53,040 --> 01:10:55,740
-E se você fizer isso para o Monero -
+E se você fizer isso para o Monero --
 
 1182
 01:10:55,740 --> 01:10:59,880
@@ -4736,7 +4737,7 @@ você não vê uma lista de todos que possuíram aquela barra de ouro,
 
 1185
 01:11:07,160 --> 01:11:08,400
-você apenas vê ouro -
+você vê apenas ouro --
 
 1186
 01:11:08,720 --> 01:11:11,800
@@ -4760,7 +4761,7 @@ se você faz isso, nós estamos olhando para 1/100 de 1%.
 
 1191
 01:11:25,960 --> 01:11:32,200
-Isto é o que eu tento dizer quando eu digo que isto é um ativo que é apenas um bebê, isto ainda é o início.
+Isto é o que eu tento dizer quando eu digo que este ativo é apenas um bebê, isto ainda é o início.
 
 1192
 01:11:32,320 --> 01:11:36,480
@@ -4772,11 +4773,11 @@ Pode existir um bug que ninguém sabe.
 
 1194
 01:11:39,060 --> 01:11:41,960
-Pode existir atividade do governo em que um monte de pessoas
+Pode existir atividade do governo em que um monte de pessoas,
 
 1195
 01:11:41,960 --> 01:11:43,320
-eu fico bem preocupado sobre
+eu fico bem preocupado sobre,
 
 1196
 01:11:43,320 --> 01:11:49,460
@@ -4792,7 +4793,7 @@ E isto não é exatamente como governos trabalham,
 
 1199
 01:11:53,380 --> 01:11:55,380
-isto é um pouco mais deliberativo -
+é um pouco mais deliberativo --
 
 1200
 01:11:55,380 --> 01:11:59,380
@@ -4820,5 +4821,4 @@ que realmente se preocupam sobre privacidade como um direito humano fundamental.
 
 1206
 01:12:20,140 --> 01:12:23,290
-Eu vou terminar com isso e agradeço pela atenção de todos.
-
+Eu vou terminar por aqui e agradeço a todos pela atenção.
